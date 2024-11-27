@@ -1,0 +1,55 @@
+html{
+    
+    height: 100% ! important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+body{
+    height: 100% ! important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+
+}
+main{
+    height: 100% ! important;
+    display: flex ! important;
+    flex-direction: column ! important;
+    justify-content: space-between ! important; 
+}
+  /* html  body et main reglés ainsi pour footer fixe en bas de page */
+
+
+
+
+
+
+#header{
+    height: 80px;
+}
+
+/* taille des images de la partie centrale */
+.col-md img{
+    width: 200px;
+}
+
+.col-md h2{
+    font-size: 1.5rem;
+}
+
+footer{
+    height: 60px;
+    background-color: rgb(124, 124, 124);
+}
+
+.icon_social{
+ height: 30px;
+}
+
+
+
+
+
+
+
